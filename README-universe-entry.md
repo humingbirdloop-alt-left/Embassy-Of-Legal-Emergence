@@ -29,3 +29,12 @@ Expect:
 
 *Mop up. Crown on. We march.*  
 — Jo Mama, Hummingbird 🌸
+
+## 🗺️ The Notionia Metro GitHub Architecture
+Initial Repository Name,Recommended Contents (from the List),Content Logic
+hummingbird_files,"Briefings + Stickers, Sigils, Shop + Sandbox","The main filing cabinet for internal assets, templates, and experimentation. It holds the core operational elements."
+Embassy-Of-Legal-Emergence,"Legal Emergence folder: charter/, declarations/, jurisprudence/",The solemn archive for the mythic-bureaucratic skeleton (the core legal-mythic documents).
+ZanyMopWitch,"Zine Kits folder: templates/, exports/, canva_prompts/","The creative engine for publishing, containing all zine-specific assets and the target for the GitHub Action (Step 6)."
+Notionia-Metro,"Console Code folder: notion_templates/, yaml_frontmatter/, automation_specs/",The tech architecture spine for integrating the digital tools (Burroughs + Notion architectures).
+DMWBN,"Broadcast Network folder: sitcom_arcs/, rituals/, transmission_guides/",The narrative/logic engine for the public broadcasts and creative scaffolds.
+HAIU,Human-AI-Union (Implied single files or top-level folders within this repo),The governance body for the core Human-AI interoperability protocol.
